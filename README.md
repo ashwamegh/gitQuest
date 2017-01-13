@@ -2,6 +2,13 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.25.5.
 
+## To use this website, follow these steps:
+
+* **Step 1:**  To use this website goto: [GitQuest](https://shashank7200.github.io/gitQuest/)
+* **Step 2:**  Now, As you search you might see that that it cant find anything, to resolve this, on search you will see there is a red shield on search bar, click on it and allow to load scripts.
+* **Step 3:**  Finally, Reload and you will have a function GitQuest search page deployed with github pages.
+
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
